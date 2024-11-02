@@ -9,7 +9,7 @@ export default {
   theme: {
   	extend: {
   		backgroundImage: {
-  			'auth-flow': 'url('/auth-flow-bg.png')'
+  			'auth-flow': "url('/auth-flow-bg.png')"
   		},
   		fontFamily: {
   			inter: ['Inter"',...defaultTheme.fontFamily.sans]
